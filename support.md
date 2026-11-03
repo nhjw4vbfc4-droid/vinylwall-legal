@@ -7,11 +7,11 @@ _Last updated: 2026-11-03_
 
 ## Getting help
 
-Need help with Vinyl Wall? Email **vinylmosiac@icloud.com** and we'll do our best to help.
+Need help with Vinyl Mosaic? Email **vinylmosaic@icloud.com** and we'll do our best to help.
 
 ## Common questions
 
-- **The wall is empty.** Vinyl Wall shows the albums in your Apple Music library. Add albums
+- **The wall is empty.** Vinyl Mosaic shows the albums in your Apple Music library. Add albums
   in the Music app (or turn on Sync Library), and make sure at least one collection is
   switched on.
 - **No music plays.** Playing songs needs an Apple Music subscription.
@@ -28,7 +28,7 @@ Need help with Vinyl Wall? Email **vinylmosiac@icloud.com** and we'll do our bes
 Please include:
 
 - Your device (e.g. Apple TV 4K, iPhone Duo) and its software version
-- Vinyl Wall's version and code (Settings → About)
+- Vinyl Mosaic's version and code (Settings → About)
 - What you were doing, what happened, and what you expected
 
 ## Feature requests

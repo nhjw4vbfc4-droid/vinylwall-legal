@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vinyl Wall
+title: Vinyl Mosaic
 ---
 
 A wall of album covers from **your own Apple Music library**, for Apple TV, iPhone, iPad and
@@ -11,4 +11,4 @@ album that's playing lights up.
 - [Terms of Use](terms)
 - [Support](support)
 
-Contact: **vinylmosiac@icloud.com**
+Contact: **vinylmosaic@icloud.com**
