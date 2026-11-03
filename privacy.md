@@ -26,7 +26,7 @@ None. Specifically:
 
 ## How information is used
 
-Your library and collections are used only to build the wall and play music on your devices.
+Your library and collections are used only to build the mosaic and play music on your devices.
 Nothing is sold or shared with anyone.
 
 ## Data retention
