@@ -1,0 +1,49 @@
+---
+layout: page
+title: Privacy Policy
+---
+
+_Last updated: 2026-11-03_
+
+## Summary
+
+Vinyl Wall is designed to respect your privacy. **Vinyl Wall does not collect, store, or
+transmit any personal information to its developer.** There are no accounts, no analytics,
+no advertising and no tracking.
+
+## Information we collect
+
+None. Specifically:
+
+- **Your music library.** With your permission, Vinyl Wall reads your Apple Music library
+  (albums, artists, genres, playlists and their artwork) **on your device**, to show covers
+  and play songs. This stays on your device; it is never sent to the developer.
+- **Your collections and settings.** The collections you create are stored on your device
+  and synced between your own devices through **your iCloud account** (Apple's iCloud
+  key-value storage), so the same collections appear on your Apple TV and iPhone. The
+  developer cannot see this data. Settings stay on each device.
+- **Music playback** is provided by Apple Music, under Apple's own privacy policy.
+
+## How information is used
+
+Your library and collections are used only to build the wall and play music on your devices.
+Nothing is sold or shared with anyone.
+
+## Data retention
+
+Everything Vinyl Wall keeps is on your devices and in your iCloud account, and is removed
+when you delete the app (and, for synced collections, from iCloud via your device's iCloud
+settings).
+
+## Your choices
+
+You can turn off Vinyl Wall's access to your music library at any time in Settings → Apps →
+Vinyl Wall. Uninstalling the app removes its data from the device.
+
+## Children
+
+Vinyl Wall does not knowingly collect information from anyone, including children.
+
+## Contact
+
+Questions about this policy: **vinylmosiac@icloud.com**
