@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_
 
 ## Summary
 
@@ -22,6 +22,10 @@ None. Specifically:
   and synced between your own devices through **your iCloud account** (Apple's iCloud
   key-value storage), so the same collections appear on your Apple TV and iPhone. The
   developer cannot see this data. Settings stay on each device.
+- **Your free trial and purchase.** The date you first opened Vinyl Mosaic is stored on your
+  device and in your iCloud account, so the 7-day trial is the same on all your devices. The
+  $0.99 unlock is bought through Apple's App Store; Apple handles payment, and the developer
+  receives no payment or card details.
 - **Music playback** is provided by Apple Music, under Apple's own privacy policy.
 
 ## How information is used
